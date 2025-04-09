@@ -1,5 +1,6 @@
 def add(a, b):
-    return a - b  #  intentional bug
+    return a + b
+
 
 
 def subtract(a, b):
